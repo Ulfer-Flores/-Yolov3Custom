@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>948.png</filename>
+	<path>D:\Yolov3Custom-master\data\custom\images\948.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>61</ymin>
+			<xmax>156</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>
