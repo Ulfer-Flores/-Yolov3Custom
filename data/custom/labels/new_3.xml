@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>new_3.jpg</filename>
+	<path>D:\Yolov3Custom-master\data\custom\images\new_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>210</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>13</ymin>
+			<xmax>191</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>
