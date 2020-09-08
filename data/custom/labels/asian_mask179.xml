@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>asian_mask179.jpg</filename>
+	<path>D:\Yolov3Custom-master\data\custom\images\asian_mask179.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>171</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>13</ymin>
+			<xmax>117</xmax>
+			<ymax>76</ymax>
+		</bndbox>
+	</object>
+</annotation>
