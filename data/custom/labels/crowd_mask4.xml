@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>crowd_mask4.jpg</filename>
+	<path>D:\Yolov3Custom-master\data\custom\images\crowd_mask4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>370</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>19</ymin>
+			<xmax>333</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>
